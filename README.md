@@ -14,7 +14,7 @@ cd onts_auxiliary_script-main/home && chmod 777 onts
 ```bash
 ./onts
 ```
-5.使用以及查看帮助
+5.使用以及查看帮助(使用前需要先激活环境)
 ```bash
 conda activate Ont
 onts --help
