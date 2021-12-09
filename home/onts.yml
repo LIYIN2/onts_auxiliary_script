@@ -1,0 +1,15 @@
+name: Ont
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+  - r
+  - sagrudd
+  - defaults
+dependencies:
+  - pinfish
+  - pychopper
+  - trim_isoseq_polya
+  - cdna_cupcake
+  - spliced_bam2gff
+  - seqkit  
