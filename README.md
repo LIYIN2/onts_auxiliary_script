@@ -18,4 +18,9 @@ cd onts_auxiliary_script-main/home && chmod 777 onts
 ```bash
 onts --help
 ```
+
+安装完毕后可删除文件
+```bash
+rm -rf onts_auxiliary_script-main/home*
+
 ## 注意：使用前请先安装conda
