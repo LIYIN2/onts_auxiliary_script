@@ -1,4 +1,4 @@
-# onts_auxiliary_script
+# onts_auxiliary_script (仅内部使用)
 ## 使用教程
 1.下载
 
